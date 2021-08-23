@@ -13,15 +13,10 @@
 
 ### Languages and Tools:
 Python
-<br/ >
 Django
-<br/ >
 Spring
-<br/ >
 ReactJS
-<br/ >
 Typescript
-<br/ >
 Mysql
 
 [linkedin]: https://www.linkedin.com/in/gustavovalle-tech/
