@@ -13,10 +13,12 @@
 
 ### Languages and Tools:
 Python
+Typescript
+Java
 Django
+Express
 Spring
 ReactJS
-Typescript
 Mysql
 
 [linkedin]: https://www.linkedin.com/in/gustavovalle-tech/
