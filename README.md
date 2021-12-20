@@ -12,14 +12,15 @@
 <br />
 
 ### Languages and Tools:
-Python
-Typescript
-Java
-Django
-FastAPI
-Express
-Spring
-ReactJS
-Mysql
-
+<ul>
+    <li>Python</li>
+    <li>Typescript</li>
+    <li>Java</li>
+    <li>Django</li>
+    <li>FastAPI</li>
+    <li>Express</li>
+    <li>Spring</li>
+    <li>ReactJS</li>
+    <li>Mysql</li>
+</ul>
 [linkedin]: https://www.linkedin.com/in/gustavovalle-tech/
