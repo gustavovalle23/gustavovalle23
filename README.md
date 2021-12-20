@@ -16,6 +16,7 @@ Python
 Typescript
 Java
 Django
+FastAPI
 Express
 Spring
 ReactJS
