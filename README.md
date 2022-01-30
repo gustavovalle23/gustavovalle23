@@ -1,6 +1,6 @@
 ### Hi there, I'm Gustavo Valle 👋
 
-## I'm a Tech. Working with Back-end techonologies.
+## I'm a Tech. Working with Back-end technologies.
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
