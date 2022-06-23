@@ -14,9 +14,9 @@
 ### Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavovalle23)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mylenamunhoz&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavovalle23&show_icons=true)  
 <br/>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mylenamunhoz)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gustavovalle23)  
 
 
 
