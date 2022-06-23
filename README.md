@@ -30,4 +30,4 @@ Spring
 ReactJS
 Mysql
 
-[linkedin]: https://www.linkedin.com/in/gustavovalle-tech/
+<a href="https://linkedin.com/in/gustavovalle-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavovalle-tech" height="30" width="40" /></a>
