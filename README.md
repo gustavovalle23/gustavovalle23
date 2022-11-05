@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022/1 Goals: Contribute more to Open Source projects
 
-Owner of https://github.com/churros-py/financial-system
+Owner of https://github.com/churros-py
 
 <br />
 
