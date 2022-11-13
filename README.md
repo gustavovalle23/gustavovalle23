@@ -10,15 +10,17 @@ Owner of https://github.com/churros-py
 
 <br />
 
-<div align="center">
-## Languages and Tools:
+### Languages and Tools:
   <br/>
   <a href="https://github.com/gustavovalle23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavovalle23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavovalle23&layout=compact&langs_count=7&theme=dark"/>
-</div> 
 <br/>
- [![Top Langs]![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gustavovalle23)  
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gustavovalle23)  
+
+  
 <br/>
 
 <div style="display: inline_block"><br>
@@ -35,7 +37,8 @@ Owner of https://github.com/churros-py
   <img align="center" alt="FastAPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
 </div>
 
+<br/>
+<br/>
 ## Linkedin:
 <br/>
 <a href="https://linkedin.com/in/gustavovalle-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavovalle-tech" height="30" width="40" />Gustavo Valle</a>
-
