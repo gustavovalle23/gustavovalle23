@@ -12,6 +12,7 @@ Owner of https://github.com/churros-py
 
 <div align="center">
 ### Languages and Tools:
+  <br/>
   <a href="https://github.com/gustavovalle23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavovalle23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavovalle23&layout=compact&langs_count=7&theme=dark"/>
@@ -33,16 +34,5 @@ Owner of https://github.com/churros-py
   <img align="center" alt="FastAPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
 
 </div>
-
-
-Python
-Typescript
-Java
-Django
-FastAPI
-Express
-Spring
-ReactJS
-Mysql
 
 <a href="https://linkedin.com/in/gustavovalle-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavovalle-tech" height="30" width="40" /></a>
