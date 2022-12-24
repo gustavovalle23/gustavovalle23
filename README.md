@@ -4,7 +4,10 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022/1 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals:
+- [ ] Contribute more to Open Source projects
+- [ ] Go deeper into technologies such as ElasticSearch, 
+- [ ] specialize in Python and Javascript
 
 Owner of https://github.com/churros-py
 
