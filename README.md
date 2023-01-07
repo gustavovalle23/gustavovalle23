@@ -16,7 +16,7 @@ Open Pull Requests from my open source projects so anyone can make suggestions:
 <br />
 - https://github.com/gustavovalle23/POC-schema-registry/pull/1
 <br />
-https://github.com/gustavovalle23/churros-microservices-fastapi/pull/7
+- https://github.com/gustavovalle23/churros-microservices-fastapi/pull/7
 <br />
 - https://github.com/gustavovalle23/gotu/pull/2
 
