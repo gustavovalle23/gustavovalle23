@@ -10,6 +10,11 @@
 - [ ] specialize in Python and Javascript;
 
 Owner of https://github.com/churros-py
+Open Pull Requests from my open source projects so anyone can make suggestions:
+<br />
+- https://github.com/gustavovalle23/POC-schema-registry/pull/1
+
+
 
 <br />
 
