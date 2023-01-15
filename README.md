@@ -25,10 +25,8 @@ Open Pull Requests from my open source projects so anyone can make suggestions:
 <br />
 
 ### Languages and Tools:
-  <br/>
-  <a href="https://github.com/gustavovalle23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavovalle23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavovalle23&layout=compact&langs_count=7&theme=dark"/>
+<br/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavovalle23&layout=compact&langs_count=7&theme=dark"/>
 <br/>
 
 
