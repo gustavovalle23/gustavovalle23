@@ -7,7 +7,7 @@
 - 🥅 2023 Goals:
 - [ ] Contribute more to Open Source projects;
 - [ ] Go deeper into technologies such as GraphQL, Monitoring and CI tools;
-- [ ] specialize in Python and NodeJS;
+- [ ] specialize in Python;
 
 Owner of https://github.com/churros-py
 
