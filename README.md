@@ -4,13 +4,6 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals:
-- [ ] Contribute more to Open Source projects;
-- [ ] Go deeper into technologies such as GraphQL, Monitoring and CI tools;
-- [ ] specialize in Python/JS;
-
-Owner of https://github.com/churros-py
-
 
 
 <br />
