@@ -11,13 +11,7 @@
 ### Languages and Tools:
 <br/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavovalle23&layout=compact&langs_count=7&theme=dark"/>
-<br/>
-
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gustavovalle23)  
-
-  
-<br/>
+<br/> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
