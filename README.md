@@ -8,7 +8,6 @@ I'm passionate about building efficient, scalable back-end systems and collabora
 - 🤝 I’m open to collaborate with other developers and content creators.
 - 🌱 Always learning something new — recently exploring distributed systems and DevOps practices.
 
----
 
 ## 🚀 Languages & Tools
 
@@ -28,13 +27,10 @@ I'm passionate about building efficient, scalable back-end systems and collabora
   <img alt="FastAPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
 </div>
 
----
 
 ## 📊 GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavovalle23&layout=compact&langs_count=7&theme=dark"/>
-
----
 
 ## 🌐 Let's Connect
 
@@ -42,8 +38,6 @@ I'm passionate about building efficient, scalable back-end systems and collabora
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Gustavo Valle" height="30" width="40"/>
   Gustavo Valle
 </a>
-
----
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gustavovalle23.gustavovalle23" alt="Visitors" />
