@@ -34,5 +34,7 @@
 <br/>
 <a href="https://linkedin.com/in/gustavovalle-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavovalle-tech" height="30" width="40" />Gustavo Valle</a>
 
+<br/>
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gustavovalle23.gustavovalle23)
 
